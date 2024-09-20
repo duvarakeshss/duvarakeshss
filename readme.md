@@ -2,7 +2,9 @@
 <img align="center" height="150" src="https://media.giphy.com/media/Sf5U5y6zy7EoU8PSoz/giphy.gif?cid=790b7611makdjd7nzamaja3bbk3ojc96yng99vgefg9ph17c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 ###
+
 <h2 align="left">Hi 👋! My name is Duvarakesh </h2>
+
 ###
 
 <div align="center">
