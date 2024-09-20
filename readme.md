@@ -1,7 +1,9 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<<div align="center">
+<img align="center" height="150" src="https://media.giphy.com/media/Sf5U5y6zy7EoU8PSoz/giphy.gif?cid=790b7611makdjd7nzamaja3bbk3ojc96yng99vgefg9ph17c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-<p><a href="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">via GIPHY</a></p>
+<h2 align="left">Hi 👋! My name is Mithun Karthick and I'm a Fullstack developer and a cybersecurity student from Coimbatore</h2>
+
+###
 
 
 <h2 align="left">Hi 👋! My name is Duvarakesh </h2>
