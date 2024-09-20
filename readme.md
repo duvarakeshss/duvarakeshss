@@ -3,7 +3,6 @@
 </div>
 
 <h2 align="left">Hi 👋! My name is Duvarakesh </h2>
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxbnVyNWh0dGlxNXdnNHZsbWJydzVlaWx5MWNybnc4ZmxlNGFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif
 ###
 
 <div align="center">
