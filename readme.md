@@ -1,6 +1,7 @@
-<div align="center">
-<img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxbnVyNWh0dGlxNXdnNHZsbWJydzVlaWx5MWNybnc4ZmxlNGFhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n1dFDLwXu4Qkwy7OJ0/giphy.gif>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+    <iframe src="https://giphy.com/embed/n1dFDLwXu4Qkwy7OJ0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
+<p><a href="https://giphy.com/gifs/zero21surf-www-gppark-greenplacepark-n1dFDLwXu4Qkwy7OJ0">via GIPHY</a></p>
 
 
 <h2 align="left">Hi 👋! My name is Duvarakesh </h2>
