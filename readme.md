@@ -1,68 +1,66 @@
 <div align="center">
-  <img align="center" height="150" src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
-</div>
-
-
-
-###
-
-<h2 align="center">Hi 👋! My name is Duvarakesh </h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duvarakeshss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duvarakeshss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-</div>
-
-###
-<div align="center">
-  <a href="https://www.linkedin.com/in/duvarakesh-s-s-5b64bb24a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/duvarakesh_ss" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:duvarakesh05@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.duvarakesh._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/duvarakeshss/count.svg?"  />
-</div>
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nandhitha-s/nandhitha-s/output/snake.svg" alt="Snake animation" />
+  <img align="center" height="180" src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
+  <h1>Duvarakesh S S</h1>
+  <p><em>Full-Stack Developer & Software Engineer</em></p>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duvarakeshss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duvarakeshss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Languages" />
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,python,c,git,mongodb,nodejs,javascript,html,css,express&theme=dark" />
+</div>
+
+---
+
+## Current Focus
+- 🔭 Working on building scalable web applications
+- 🌱 Learning advanced React patterns and system design
+- 👯 Open to collaborating on innovative projects
+
+---
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/duvarakesh-s-s-5b64bb24a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/duvarakesh_ss" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:duvarakesh05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/_.duvarakesh._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=duvarakeshss&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/duvarakeshss">
+    <img src="https://streak-stats.demolab.com/?user=duvarakeshss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvarakeshss&theme=tokyonight" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/duvarakeshss/duvarakeshss/output/snake.svg" alt="Snake animation" />
+</div>
