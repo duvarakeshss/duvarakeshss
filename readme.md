@@ -11,7 +11,7 @@
 
 ## About Me
 
-Hi there! 👋 I'm Duvarakesh, a passionate full-stack developer with a keen interest in building robust and scalable web applications. My journey in software development began with a curiosity to understand how things work under the hood, and it has evolved into a professional career where I get to create solutions that make a difference.
+Hi there! 👋 I'm Duvarakesh, a passionate developer with a keen interest in building robust and scalable web applications. My journey in software development began with a curiosity to understand how things work under the hood, and it has evolved into a professional career where I get to create solutions that make a difference.
 
 ### What I Do
 
