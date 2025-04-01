@@ -1,8 +1,11 @@
 <div align="center">
   <img align="center" height="180" src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
   <h1>Duvarakesh S S</h1>
-  <p><em>A Tech Enthusiast</em></p>
 </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=A+Tech+Enthusiast;Frontend+Developer;Backend+Developer;Machine+learning" alt="Typing SVG" />
+</div>
+
 
 ---
 
