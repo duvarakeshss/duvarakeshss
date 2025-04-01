@@ -3,7 +3,7 @@
   <h1>Duvarakesh S S</h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=A+Tech+Enthusiast;Frontend+Developer;Backend+Developer;Machine+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=435&lines=A+Tech+Enthusiast;Frontend+Developer;Backend+Developer;" alt="Typing SVG" />
 </div>
 
 
@@ -35,10 +35,24 @@ Let's connect and build something amazing together!
 
 ---
 
-## Tech Stack
+### Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,python,c,git,mongodb,nodejs,javascript,html,css,express&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
 </div>
 
 ---
