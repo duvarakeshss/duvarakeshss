@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" height="180" src="https://media.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/giphy.gif" />
   <h1>Duvarakesh S S</h1>
-  <p><em>Full-Stack Developer & Software Engineer</em></p>
+  <p><em>A Tech Enthusiast</em></p>
 </div>
 
 ---
