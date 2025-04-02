@@ -92,5 +92,5 @@ Let's connect and build something amazing together!
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/euvarakeshss/duvarakeshss/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/duvarakeshss/duvarakeshss/output/snake.svg" alt="Snake animation" />
 </div>
