@@ -86,6 +86,12 @@ Let's connect and build something amazing together!
 </div>
 
 <div align="center">
+  <a href="https://github.com/duvarakeshss">
+    <img src="https://streak-stats.demolab.com/?user=duvarakeshss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duvarakeshss&theme=tokyonight" alt="Activity Graph" />
 </div>
 
