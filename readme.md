@@ -53,7 +53,12 @@ Let's connect and build something amazing together!
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="30" alt="android studio logo" />
 </div>
+
 
 ---
 
